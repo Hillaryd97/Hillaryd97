@@ -18,7 +18,7 @@
 <a href="https://twitter.com/hik_ari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hik_ari_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simidickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simidickson" height="30" width="40" /></a>
 <a href="https://instagram.com/hik.arii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hik.arii_" height="30" width="40" /></a>
-<a href="https://dribbble.com/simi hillary dickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="simi hillary dickson" height="30" width="40" /></a>
+<a href="https://dribbble.com/hik_arii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hik_arii_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
