@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hik_ari_" target="blank"><img src="https://img.shields.io/twitter/follow/hik_ari_?logo=twitter&style=for-the-badge" alt="hik_ari_" /></a> </p>
 
-- 🔭 I’m currently working on a **Digital Logbook**
+- 🔭 I’m currently working on a **Some React Projects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
@@ -27,6 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillaryd97&show_icons=true&locale=en&layout=compact" alt="hillaryd97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillaryd97&" alt="hillaryd97" /></p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hillaryd97)](https://github.com/ryo-ma/github-profile-trophy)
