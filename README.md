@@ -27,3 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillaryd97&show_icons=true&locale=en&layout=compact" alt="hillaryd97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillaryd97&" alt="hillaryd97" /></p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hillaryd97)](https://github.com/ryo-ma/github-profile-trophy)
