@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Taste Treasure**
+- 🔭 I’m currently working on **Otaku Wave**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **React projects**
 - 📫 How to reach me: [Hillaryd97@gmail.com](mailto:Hillaryd97@gmail.com)
