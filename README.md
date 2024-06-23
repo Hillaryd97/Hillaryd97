@@ -9,10 +9,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Otaku Wave**
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **Temi**
+- 🌱 I’m currently learning **SEO Optimization**
 - 👯 I’m looking to collaborate on **React/React-Native projects**
 - 📫 How to reach me: [Hillaryd97@gmail.com](mailto:Hillaryd97@gmail.com)
+- 😊 My Portfolio: <a href="https://www.simidickson.com/" target="_blank" rel="noreferrer">Portfolio </a>
 - ⚡ Fun fact: **I’m an ARMY** 🎵
 
 ## Connect with Me
