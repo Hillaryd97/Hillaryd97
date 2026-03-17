@@ -50,9 +50,7 @@ Sometimes it's “I built this weird thing at 2am”.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=hillaryd97&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)  
+## 📊 GitHub Stats 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hillaryd97&theme=default_repocard&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryd97&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
