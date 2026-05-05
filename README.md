@@ -13,7 +13,7 @@ Currently somewhere in West Africa, probably drinking tea and thinking about my 
 ## 🚀 Things I've built
 
 **[NameIt](https://name-it-ashy.vercel.app/)**  
-A multiplayer word game I built and launched. It has over **9,000+ users**.
+A multiplayer word game I built and launched. It has over **11,000+ users**.
 
 Available on the **App Store and Google Play**.
 
