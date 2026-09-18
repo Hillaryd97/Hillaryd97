@@ -13,9 +13,9 @@ Currently somewhere in West Africa, probably drinking tea and thinking about my 
 ## 🚀 Things I've built
 
 **[NameIt](https://name-it-ashy.vercel.app/)**  
-A multiplayer word game I built and launched. It has over **11,000+ users**.
+A multiplayer word game I built and launched. It has over **15,000+ users**.
 
-Available on the **App Store and Google Play**.
+Available on the **Google Play**.
 
 ---
 
@@ -37,7 +37,7 @@ I share tips about **web dev, mobile dev, and building apps** on TikTok.
 Sometimes it's tutorials.  
 Sometimes it's “I built this weird thing at 2am”.
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@simi.hillary)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@builtbysimi)
 
 ---
 
